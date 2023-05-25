@@ -59,7 +59,7 @@
         <header class="layout-header">
             <div class="container" data-flex="main:justify cross:start">
                 <div class="header-logo"> 
-                    <h2 class="logo"><a class="links" id="pic-intro" title="生成图片说明"><span class="logo-title">图片生成尽量输入英文，中文识别率不太高</span></a></h2>
+                    <h2 class="logo"><a class="links" id="pic-intro" title="image-generator"><span class="logo-title">图片生成尽量输入英文，中文识别率不太高</span></a></h2>
                 </div>  
 
                 <!--<div class="header-logo">
